@@ -1,5 +1,5 @@
 # nextjs_https
-setup https server on next.js
+next.js 앱에 https 설정한 예제
 
 ## 참조문서
 * http://blog.saltfactory.net/implements-nodejs-based-https-server/
